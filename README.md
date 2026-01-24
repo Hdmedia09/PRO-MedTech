@@ -1,6 +1,6 @@
-# PRO-MedTech
+# HD-Media Tech
 ...
-👋 Hi, I’m PRO MedTech
+👋 Hi, I’m HD-Media Tech
 👀 I’m interested in ...Coding and Programming
 🌱 I’m currently learning ...Software Development
 💞️ I’m looking to collaborate on ...Software engineering and development projects
