@@ -62,9 +62,8 @@ hd_nedia/#Frontend source code
 ```
 
 ---
-
-
-
+👉 **Click here to view the live project:**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://hdmedia.vercel.app)
 ---
 
 ## 📬 Contact
