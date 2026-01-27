@@ -12,7 +12,7 @@
 
 ## ✨ About the Project
 
-**HD_Media™** is a **professional software developer** this portfolio project is built to showcase my:  
+**HD_Media™** is a **professional software developer**. This portfolio project is built to showcase my:  
  
 - **Projects:** Software tools built for efficiency, innovation, and real-world impact.  
 - **Services:** Software solutions, mentorship, collaboration, and technology consulting.  
@@ -33,6 +33,12 @@
   <img alt="LocalStorage" src="https://img.shields.io/badge/LocalStorage-FF6F61?style=for-the-badge"/>
 </p>
 
+### **Backend**
+
+<p>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-None-999999?style=for-the-badge"/>
+  <img alt="Database" src="https://img.shields.io/badge/Database-None-999999?style=for-the-badge"/>
+</p>
 
 ### **Hosting**
 
@@ -52,7 +58,7 @@
 ## 📁 Folder Structure
 
 ```
-hd_nedia/#Frontend source code
+hd_media/#Frontend source code
 │   ├── css/
 │   ├── js/
 │   └── pages/
