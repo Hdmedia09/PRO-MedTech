@@ -4,18 +4,13 @@
 <p align="center">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge"/> 
-<img alt="Contentful" src="https://img.shields.io/badge/Contentful-000000?style=for-the-badge"/> 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Contentful" src="https://img.shields.io/badge/Contentful-000000?style=for-the-badge"/>
 </p>
 
 ---
 
 ## ✨ About the Project
-
-**HD_Media™** is a **professional software developer**. This portfolio project is built to showcase my:  
- 
-- **Projects:** Software tools built for efficiency, innovation, and real-world impact.  
-- **Services:** Software solutions, mentorship, collaboration, and technology consulting.  
+**HD_Media™** is a **Software Engineer**. This portfolio project is built to showcase my experience in developing structured, user-focused web applications, with an emphasis on clean code, thoughtful design implementation, and effective project management. It demonstrates my ability to plan, build, and maintain web solutions from concept to deployment and also represents the services I can offer, including frontend web development, basic website optimization, and collaboration on small to medium-scale projects. My skill set includes working with core web technologies, version control systems, and modern development workflows, enabling me to maintain organized codebases and collaborate effectively.
 
 ---
 
@@ -40,11 +35,6 @@
   <img alt="Database" src="https://img.shields.io/badge/Database-None-999999?style=for-the-badge"/>
 </p>
 
-### **Hosting**
-
-<p>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
 
 ### **Others**
 
@@ -67,9 +57,6 @@ hd_media/#Frontend source code
 └── ...           # Additional folders as needed
 ```
 
----
-👉 **Click here to view the live project:**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://hdmedia.vercel.app)
 ---
 
 ## 📬 Contact
