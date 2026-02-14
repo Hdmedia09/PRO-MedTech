@@ -1,4 +1,69 @@
 
+// JS CONTROLLING THE LOADERRRR
+ 
+window.addEventListener("DOMContentLoaded", () => {
+
+  const paths = document.querySelectorAll(".logo path");
+
+  paths.forEach(path => {
+    const length = path.getTotalLength();
+    gsap.set(path, {
+      strokeDasharray: length,
+      strokeDashoffset: length,
+      stroke: "#ffffff"
+    });
+  });
+
+  const tl = gsap.timeline();
+
+  // Slow drawing animation
+  tl.to(paths, {
+    strokeDashoffset: 0,
+    duration: 3, // Slower draw
+    ease: "power2.out",
+    stagger: 0.5
+  }, 0)
+
+  // Color glow cycling DURING draw
+  .to(paths, {
+    stroke: "#00f5ff",
+    duration: 1,
+    repeat: 2,
+    yoyo: true,
+    ease: "sine.inOut"
+  }, 0)
+
+  .to(paths, {
+    stroke: "#ff9900",
+    duration: 1,
+    repeat: 2,
+    yoyo: true,
+    ease: "sine.inOut"
+  }, 0)
+
+  // Fade in tagline
+  .to(".tagline", {
+    opacity: 1,
+    y: -5,
+    duration: 1
+  })
+
+  // Fade out loader
+  .to("#loader", {
+    opacity: 0,
+    duration: 1,
+    delay: 0.5,
+    onComplete: () => {
+      document.getElementById("loader").style.display = "none";
+    }
+  });
+
+});
+
+
+
+
+
 gsap.to(".animated-img", {
   duration: 1.5,
   y: 0,
